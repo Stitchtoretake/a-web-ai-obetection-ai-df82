@@ -1,4 +1,4 @@
-# 
+# Automatic A web AI object detection presets. Featuring AI-ethics and natural-language-processing — optimized for maximum performance.
 
 
 
